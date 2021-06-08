@@ -1,5 +1,5 @@
 ### Hi there 👋
- ***I am KiruthigaVenkatesh. I'm currently pursuing my under graduate degree in Electronics & Communication Engineering and passionate about Front-End & Web devlopment. Seeking for exciting opportunities realated to the same.***
+ ***I am Kiruthiga Venkatesh. I'm currently pursuing my under graduate degree in Electronics & Communication Engineering and passionate about Front-End & Web development. Seeking for exciting opportunities realated to the same.***
 
 - 🔭 I’m currently working ***as volunteer at Youth Empowerment Foundation.***
 - 🌱 I’m currently learning ***about Web-developing at DevIncept.***
